@@ -12,7 +12,7 @@ My work experience bridges research, data science, and advocacy — from being a
 - 📚 My academic background is in Data Science, Mathematics, and Computer Science from LUMS.
 - 👯 I’m looking to collaborate on open-source AI tools, ethical tech, and interdisciplinary research projects.
 - 💬 Ask me about Python, deep learning, computer vision, or how to bring data to life with storytelling!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hadia-shehzad) | [Email](mailto:hadiashehzad98@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hadia-shehzad-/) | [Email](mailto:hadiashehzad98@gmail.com)
 - ⚡ **Fun fact:** I’m also a filmmaker! I organized the country’s first student-led female film festival — blending social advocacy with cinematic storytelling.
 
 Thanks for stopping by. Let’s build something meaningful! 💻🎬
